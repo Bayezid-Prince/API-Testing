@@ -1,4 +1,4 @@
-# Selenium with Python
+# Selenium & Cypress
 
 Grab some elemthents from website without xpath.
 Find a clickable link from a page and click it. Go to next page, and click another link/button. Fill up something and search/enter. Come back again to the home page.
